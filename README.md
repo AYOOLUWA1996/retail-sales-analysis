@@ -146,4 +146,3 @@ Monthly sales ranged from a low of **₦1.1M (Sep 2024)** to a high of **₦4.9M
 - Reading data honestly, including stating what the data does *not* show
 
 *Dataset is synthetic, generated for analysis practice. Built as Portfolio Project #1.*
-
