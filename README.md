@@ -38,7 +38,7 @@ ORDER BY total_revenue DESC;
 | Electronics | 8,566,375 |
 | Stationery | 3,272,885 |
 
-**Insight:** "Furniture is the clear revenue leader at ₦36.8M — more than Electronics and Stationery combined. Revenue is heavily concentrated in the top two categories. However, revenue alone does not indicate profitability — see Question 3."
+**Insight:** Furniture is the clear revenue leader at ₦36.8M — more than Appliances, Electronics, and Stationery's combined contribution is approached by Furniture alone. Revenue is heavily concentrated in the top two categories. However, revenue alone does not indicate profitability — see Question 3."
 
 ---
 
